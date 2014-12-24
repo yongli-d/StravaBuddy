@@ -16,7 +16,8 @@ Promoting a healthy lifestyle using the Strava API
    - Record on strava 
 
 
-Extra (if more time or $): 
+Extra (if more time or $):
+
 1. Save battery 
    - automatically turn off other apps (SOUNDS LIKE A SEPARATE APP IDEA) 
    - Automatically save strava data before phone dies 
